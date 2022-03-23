@@ -1,0 +1,222 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &4598896429135772954
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 822567489053345924, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: m_Mesh
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345928, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: m_Name
+      value: Dirt
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345929, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345929, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 12.79873
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345929, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 43.16
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345929, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -32.66737
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345929, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345929, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345929, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345929, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345929, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345929, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345929, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: name
+      value: Dirt
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: itemTorop
+      value: 
+      objectReference: {fileID: 3210624999895234661, guid: 9f9f64ecf345a2f4a9e1f94a92f53359,
+        type: 3}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: largeBond.x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: largeBond.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: Opaquematerial
+      value: 
+      objectReference: {fileID: 2100000, guid: 5020276550701b4458be51dc0e133b0c, type: 2}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: voxels.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: Transparentmaterial
+      value: 
+      objectReference: {fileID: 2100000, guid: 6a4f7198d88594f45b9f3544d8d79599, type: 2}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: voxels.Array.data[1].y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: voxels.Array.data[2].y
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: voxels.Array.data[3].x
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: voxels.Array.data[3].y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: voxels.Array.data[4].y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: voxels.Array.data[0].color.b
+      value: 0.027411832
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: voxels.Array.data[0].color.g
+      value: 0.31998074
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: voxels.Array.data[0].color.r
+      value: 0.6226415
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: voxels.Array.data[1].color.g
+      value: 0.38679248
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: voxels.Array.data[1].color.r
+      value: 0.14768435
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: voxels.Array.data[2].color.g
+      value: 0.38679248
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: voxels.Array.data[2].color.r
+      value: 0.14768435
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: voxels.Array.data[3].color.g
+      value: 0.38679248
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: voxels.Array.data[3].color.r
+      value: 0.14768435
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: voxels.Array.data[4].color.g
+      value: 0.38679248
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345930, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: voxels.Array.data[4].color.r
+      value: 0.14768435
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345931, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: m_Materials.Array.size
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 822567489053345931, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 5020276550701b4458be51dc0e133b0c, type: 2}
+    - target: {fileID: 822567489053345931, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: m_Materials.Array.data[1]
+      value: 
+      objectReference: {fileID: 2100000, guid: 6a4f7198d88594f45b9f3544d8d79599, type: 2}
+    - target: {fileID: 7556904902840386622, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: voxels.Array.data[0].color.b
+      value: 0.003737911
+      objectReference: {fileID: 0}
+    - target: {fileID: 7556904902840386622, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: voxels.Array.data[0].color.g
+      value: 0.34232384
+      objectReference: {fileID: 0}
+    - target: {fileID: 7556904902840386622, guid: 8555a7892dc4c634a9ff5700fbdcaab0,
+        type: 3}
+      propertyPath: voxels.Array.data[0].color.r
+      value: 0.5943396
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 8555a7892dc4c634a9ff5700fbdcaab0, type: 3}
