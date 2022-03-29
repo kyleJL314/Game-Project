@@ -5,11 +5,13 @@ using UnityEngine;
 public class GameData : MonoBehaviour
 {
     public ItemData[] _items;
+    public CraftingRecipe[] _CraftingRecipies; 
     public Material _OpaqueMaterial;
     public  Material _TranparentMaterial;
 
     public static JobManager jobMain;
     public static ItemData[] items;
+    public static CraftingRecipe[] CraftingRecipies;
     public static Material TranparentMaterial;
     public static Material OpaqueMaterial;
     private void Awake()

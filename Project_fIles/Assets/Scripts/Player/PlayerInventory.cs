@@ -49,6 +49,8 @@ public class PlayerInventory : MonoBehaviour
     
     void updatedSelectedSlot()
     {
+        
+        Debug.Log(CraftingRecipe.TestForRecipies(new int3(0,0,0),1,this.gameObject));
         GameData.items[inventory.inventory[SelectedSlot].item].ItemHeld(this);
     }
 
